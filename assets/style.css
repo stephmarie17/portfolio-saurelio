@@ -1,0 +1,148 @@
+html {
+    scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+}
+
+body { 
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    background-color: #fafafa;
+}
+
+h3 {
+    font-family: 'Playfair Display', serif;
+}
+
+.navbar {
+    background-color: #fafafa !important;
+}
+
+.navbar-toggler-icon {
+    color: #191919 !important;
+}
+
+.navbar-nav {
+    position: absolute;
+    right: 20px;
+}
+
+.navbar a {
+    color:  #989f7a !important;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color:  #191919 !important;
+}
+
+.hero h1 {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.hero h3 {
+    text-align: center;
+}
+
+.hero-waves {
+    width: 100%;
+}
+
+.about h3 {
+    text-align: center;
+}
+
+.about img {
+    border-radius: 250px;
+    border: solid 10px #989f7a;
+    margin: 20px;
+    margin-left: 50px;
+}
+
+.about p {
+    margin: 20px;
+    padding: 20px;
+}
+
+.skills h3 {
+    text-align: center;
+}
+
+.skills h4 {
+    margin: 20px;
+    padding: 20px;
+}
+
+.skills p {
+    display: inline-flex;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 75px;
+    box-shadow: 0 8px 6px -6px black;
+}
+
+.skills p:hover {
+    cursor: pointer;
+    transition: all 0.3s linear;
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+}
+
+#front-end p {
+    background-color: #82B1AD;
+}
+
+#back-end p {
+    background-color: #989f7a;
+}
+
+#workflow p {
+    background-color: #D7B590;
+}
+
+#special p {
+    color: #fafafa;
+    background-color: #BA5354;
+}
+
+.projects-display h3{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.project-cards {
+    display: inline-flex;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 975px) {
+    .project-cards {
+        display: inline-block;
+        margin: 0 auto;
+    }
+}
+
+.btn {
+    background-color: #989f7a;
+    color: #fafafa;
+}
+
+.card-body a {
+    color: #fafafa;
+}
+
+.card-body a:hover {
+    transition: all 0.3s linear;
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+}

@@ -10,4 +10,4 @@ A portfolio to display my ongoing work as a full-stack developer.
 Stephanie Aurelio
 
 ## Dependencies
-Icons made by Pixel Perfect from [www.flaticon.com](www.flaticon.com)
+[Icons made by Pixel Perfect from flaticon.com](www.flaticon.com)

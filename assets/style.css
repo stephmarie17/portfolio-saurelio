@@ -186,6 +186,10 @@ h3 {
     margin-bottom: 50px;
 }
 
+.img-credit {
+    font-size: 0.5em;
+}
+
 #return-img {
     cursor: pointer;
     height: 50px;

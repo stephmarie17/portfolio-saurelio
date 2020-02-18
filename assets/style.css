@@ -58,10 +58,11 @@ h3 {
 }
 
 .about img {
-    border-radius: 250px;
+    border-radius: 100px;
     border: solid 10px #989f7a;
     margin: 20px;
     margin-left: 50px;
+    width: 475px;
 }
 
 @media only screen and (max-width: 500px) {
@@ -191,14 +192,10 @@ h3 {
 }
 
 #return-img {
-    cursor: pointer;
-    height: 50px;
-    left: 0;
-    margin: 0 auto;
+    text-align: center;
     display: block;
-    right: 0;
     padding: 10px;
-    transition: background 0.5s;
+    color: #191919;
 }
 
 footer {

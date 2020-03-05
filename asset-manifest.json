@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-saurelio/static/css/main.5d27b7d2.chunk.css",
+    "main.js": "/portfolio-saurelio/static/js/main.9b47b266.chunk.js",
+    "main.js.map": "/portfolio-saurelio/static/js/main.9b47b266.chunk.js.map",
+    "runtime-main.js": "/portfolio-saurelio/static/js/runtime-main.8743be9b.js",
+    "runtime-main.js.map": "/portfolio-saurelio/static/js/runtime-main.8743be9b.js.map",
+    "static/js/2.ff609990.chunk.js": "/portfolio-saurelio/static/js/2.ff609990.chunk.js",
+    "static/js/2.ff609990.chunk.js.map": "/portfolio-saurelio/static/js/2.ff609990.chunk.js.map",
+    "index.html": "/portfolio-saurelio/index.html",
+    "precache-manifest.fb645eb970d7bd6b50f4898c93c37a40.js": "/portfolio-saurelio/precache-manifest.fb645eb970d7bd6b50f4898c93c37a40.js",
+    "service-worker.js": "/portfolio-saurelio/service-worker.js",
+    "static/css/main.5d27b7d2.chunk.css.map": "/portfolio-saurelio/static/css/main.5d27b7d2.chunk.css.map",
+    "static/js/2.ff609990.chunk.js.LICENSE.txt": "/portfolio-saurelio/static/js/2.ff609990.chunk.js.LICENSE.txt",
+    "static/media/StephanieAurelioResume.pdf": "/portfolio-saurelio/static/media/StephanieAurelioResume.f3488321.pdf",
+    "static/media/headshot.jpg": "/portfolio-saurelio/static/media/headshot.ad5b092f.jpg",
+    "static/media/luke-chesser-gradient.jpg": "/portfolio-saurelio/static/media/luke-chesser-gradient.34d70cff.jpg",
+    "static/media/trent-erwin-desktop.jpg": "/portfolio-saurelio/static/media/trent-erwin-desktop.68a6e1d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8743be9b.js",
+    "static/js/2.ff609990.chunk.js",
+    "static/css/main.5d27b7d2.chunk.css",
+    "static/js/main.9b47b266.chunk.js"
+  ]
+}
